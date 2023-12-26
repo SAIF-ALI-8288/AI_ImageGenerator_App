@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
             backgroundColor: Colors.transparent,
             elevation: 0.0,
           )),
-      home: const HomeScreen(),
+      home: const HomeScreen(), //This is main page
     );
   }
 }
